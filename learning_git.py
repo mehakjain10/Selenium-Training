@@ -1,4 +1,7 @@
-s = ''
-for i in 'PYTHON':
-    s += i
-    print(s)
+def pattern(word):
+    s = ''
+    for i in word:
+        s += i
+        print(s)
+
+pattern('Python Selenium')
