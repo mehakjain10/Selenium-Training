@@ -1,2 +1,4 @@
+s = ''
 for i in 'PYTHON':
-    print(i)
+    s += i
+    print(s)
