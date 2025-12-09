@@ -1,2 +1,7 @@
 s = 'hello'
-d = {'h':1,'e':1,'l':2,'o':1}
+d = {}
+for i in s:
+    if i in d:
+        d[i] = d[i] + 1
+    else:
+        d[i] = 1
