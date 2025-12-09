@@ -1,0 +1,163 @@
+What is Automation?
+	Testing the functionality 
+of the application by using any automation tool is called automation
+
+Why Automation?
+	To reduce the human effort in the repetative task 
+	To reduce the time in the repetative task 
+	To Main the accuracy and consistancy
+	To sustain in the market
+	If the product size is big the regression testcase will get increase 
+to avaoid that we will go for automation
+	
+When you will go for automation?
+	When the application or a software is functionallt stable we will go for automation
+	
+HTML:
+	Html stands for Hyper text markup language
+	It is used to design or develop a webpage
+How we are going to design with the help html?
+	In Html there are some predefined tags with the 
+help of those tags we are going to design
+Tag:
+	A keyword which is enclosed between angular brasis (<>)
+	If you are opening a tag it is mandatory to close a tag.
+opening tag(<tagname>) 
+closing tag--> (</tagname>) 
+
+How to develop a webpage?
+	step1 : open the notepad
+	step2 :write the html code and save the file with ".html" extension
+	step3 :A file will be created in a specified folder with the browser logo
+
+General structure of HTML:
+	
+<html>
+	<head>
+		<title> .... </title>
+	</head>
+
+	<body>
+		-----webelements----
+	</body>
+
+</html>
+
+HTML Components:
+
+element name	Tagname		attribute
+
+submit button	input		type="submit"
+textfield		input		type="text"
+link		a		href="[url]"
+textarea		textarea
+image		img		src="path of aimg"
+table		table		
+check box	input		type="check box"
+radio button 	input		type="radio"
+drop down	select		
+
+Task
+Signup Page
+Fn
+Ln
+gender
+un
+pwd
+cnf pwd
+sign
+cancel
+
+
+
+	
+
+Locators:
+3.Class Name:
+	It is used to find the element in a webapage by using the attribute called 'class'
+	If any space is there in the locator value you should replace with dot(.)
+	class and class name both are different
+	class is an attribute which is present in html and class name is a locator which is present in selenium
+
+4.Tag name:
+
+Sample Html:
+	<a href="https://www.google.com">Google</a>
+
+A Html code consists of three components
+	1.Tagname
+	2.Attribute
+	3.Text
+#------------------------------------------------------------------------------------
+
+What is selenium?
+What is the diff between selenium and automation?
+Advantages of selenium?
+Drawbacks of selenium?
+Browser commands
+	mini
+	max
+	close
+	open
+	refresh
+	for
+
+verification methods
+	title
+	pagesource
+	CURRENT URL
+
+Basics of Html
+
+Locators
+Why locators
+Types of locators
+	id
+	name
+	class name
+	tag name
+	link text
+	partial link text
+	css selector
+	xpath
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
